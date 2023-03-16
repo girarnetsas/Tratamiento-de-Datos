@@ -33,7 +33,7 @@ Legalidad, finalidad,Transparencia, Seguridad, Confidencialidad.
   de datos.
   
 * **Derecho de Supresión:** toda persona tiene derecho de que se supriman sus datos personales en las bases de datos de la empresa, teniendo en cuenta los siguientes casos:\
-  * Cuando no se ajuste a lo dispuesto por la Ley de Protección de Datos (**Ley 1581 de 2012**), teniendo en cuenta que para esto la SIC debe haber determinado que la empresa ha definido que ha incurrido en conductas contrarias al ordenamiento de estos datos; la persona puede solicitar libre y voluntariamente el retiro de los datos, siempre y cuando no exista obligación legal contractual que imponga al titular el deber
+Cuando no se ajuste a lo dispuesto por la Ley de Protección de Datos (**Ley 1581 de 2012**), teniendo en cuenta que para esto la SIC debe haber determinado que la empresa ha definido que ha incurrido en conductas contrarias al ordenamiento de estos datos; la persona puede solicitar libre y voluntariamente el retiro de los datos, siempre y cuando no exista obligación legal contractual que imponga al titular el deber
     de permanecer en la base de datos.
     
 * **Derecho de Actualización y Rectificación:** toda persona tiene derecho a actualizar y rectificar los datos personales que hayan cambiado o que contengan errores, siempre y cuando el usuario pueda soportar con documentos la modificación que cree necesaria.
