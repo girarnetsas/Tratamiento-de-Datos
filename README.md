@@ -17,24 +17,20 @@ Señor usuario sus datos de carácter personal, solo se utilizarán cuando sea n
  
 <h4 align="left">Fines de la Recopilación de los Datos</h4>
 <ul>
-  <li>a</li>
-  <li>ab/li>
-  <li>abc</li>
+  <li>Identificarlo como usuario, para prestarle un excelente servicio.</li>
+  <li>Ofrecerle información relacionada con nuestros productos, servicios, ofertas y demás./li>
+  <li>Envío de información de estado de cuenta.</li>
+  <li>Contactar al usuario en caso de requerir asistencia técnica.</li>
+  <li>Evaluar la calidad de nuestro servicio.</li>
+  <li>Intercambio de información con otros proveedores para prevención de fraude.</li>
+  <li>Consultar, reportar, procesar, solicitar y divulgar a centrales de información financiera que administra la asociación bancaria y de entidades financieras de Colombia, o a cualquier otra entidad que maneje o administre bases de datos con información referente a su comportamiento comercial.</li>
 </ul> 
-* Identificarlo como usuario, para prestarle un excelente servicio.
-* Ofrecerle información relacionada con nuestros productos, servicios, ofertas y demás
-* Envío de información de estado de cuenta.
-* Contactar al usuario en caso de requerir asistencia técnica.
-* Evaluar la calidad de nuestro servicio
-* Intercambio de información con otros proveedores para prevención de fraude.
-* Consultar, reportar, procesar, solicitar y divulgar a centrales de información financiera que administra la asociación bancaria y de entidades financieras de Colombia, o a cualquier otra entidad que maneje o administre bases de datos con información referente a su comportamiento comercial.
- 
 
 <h4 align="left">Principios para el tratamiento de sus datos</h4>
 Legalidad, finalidad,Transparencia, Seguridad, Confidencialidad.
 
 </h4> aling="left">Derechos del Titular de los Datos</h4>
-* **Derecho de Acceso:** toda persona tiene derecho a conocer la  finalidad del uso de sus datos personales y si se encuentra en la base
+<p aling="left"><b>Derecho de Acceso:</b> toda persona tiene derecho a conocer la  finalidad del uso de sus datos personales y si se encuentra en la base
   de datos.
   
 * **Derecho de Supresión:** toda persona tiene derecho de que se supriman sus datos personales en las bases de datos de la empresa, teniendo en cuenta los siguientes casos:\
