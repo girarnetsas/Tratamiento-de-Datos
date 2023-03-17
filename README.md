@@ -31,7 +31,7 @@ Legalidad, finalidad,Transparencia, Seguridad, Confidencialidad.
 
 </h4> aling="left">Derechos del Titular de los Datos</h4>
 <p aling="left"><b>Derecho de Acceso:</b> toda persona tiene derecho a conocer la  finalidad del uso de sus datos personales y si se encuentra en la base
-  de datos.
+  de datos.</p>
   
 * **Derecho de Supresión:** toda persona tiene derecho de que se supriman sus datos personales en las bases de datos de la empresa, teniendo en cuenta los siguientes casos:\
 Cuando no se ajuste a lo dispuesto por la Ley de Protección de Datos (**Ley 1581 de 2012**), teniendo en cuenta que para esto la SIC debe haber determinado que la empresa ha definido que ha incurrido en conductas contrarias al ordenamiento de estos datos; la persona puede solicitar libre y voluntariamente el retiro de los datos, siempre y cuando no exista obligación legal contractual que imponga al titular el deber
