@@ -10,7 +10,7 @@ GIRARNET, informa a los usuarios que respetamos la legislación vigente en mater
 
 Señor usuario sus datos de carácter personal, solo se utilizarán cuando sea necesario y pertinente según la finalidad para la que se han obtenido. Serán suprimidos cuando hayan dejado de ser necesarios o pertinentes para dicha finalidad, o cuando lo solicite el titular en elejercicio de su derecho de supresión.
 
-<h4 align="left">Tratamiento y Finalidad de los Datos</h4>
+<h4 align="left">Tratamiento y Finalidad de los Datos<\h4>
 
   <p align="justify">Los datos recopilados por GirarNET, serán tratados con el grado de   protección adecuado y exigido por la ley.</p>
   
