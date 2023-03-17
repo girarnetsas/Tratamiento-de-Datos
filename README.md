@@ -16,6 +16,11 @@ Señor usuario sus datos de carácter personal, solo se utilizarán cuando sea n
   
  
 <h4 align="left">Fines de la Recopilación de los Datos</h4>
+<ul>
+  <li>a</li>
+  <li>ab/li>
+  <li>abc</li>
+</ul> 
 * Identificarlo como usuario, para prestarle un excelente servicio.
 * Ofrecerle información relacionada con nuestros productos, servicios, ofertas y demás
 * Envío de información de estado de cuenta.
