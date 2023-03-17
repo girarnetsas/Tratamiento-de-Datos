@@ -12,10 +12,10 @@ Señor usuario sus datos de carácter personal, solo se utilizarán cuando sea n
 
 <h4 align="left">Tratamiento y Finalidad de los Datos<\h4>
 
-  <p align="justify">Los datos recopilados por GirarNET, serán tratados con el grado de   protección adecuado y exigido por la ley.</p>
+  <p align="justify">Los datos recopilados por GirarNET, serán tratados con el grado de   protección adecuado y exigido por la ley.<\p>
   
  
-<h4 align="left">Fines de la recopilación de los datos</h4>
+<h4 align="left">Fines de la Recopilación de los Datos<\h4>
 * Identificarlo como usuario, para prestarle un excelente servicio.
 * Ofrecerle información relacionada con nuestros productos, servicios, ofertas y demás
 * Envío de información de estado de cuenta.
