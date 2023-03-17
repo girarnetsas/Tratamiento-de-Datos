@@ -30,6 +30,7 @@ Señor usuario sus datos de carácter personal, solo se utilizarán cuando sea n
 Legalidad, finalidad,Transparencia, Seguridad, Confidencialidad.
 
 </h4> aling="left">Derechos del Titular de los Datos</h4>
+
 <p aling="left"><b>Derecho de Acceso:</b> toda persona tiene derecho a conocer la  finalidad del uso de sus datos personales y si se encuentra en la base
   de datos.</p>
   
