@@ -2,7 +2,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1IOfE1dKrdg5ScKsoBxPqvmS-VMbQaKjb" alt="drawing" width="500"/>
 </p>
 
-<h1 align="center">TRATAMIENTO DE DATOS<\h1>
+<h1 align="center">TRATAMIENTO DE DATOS</h1>
 
 <h3 align="center"><strong>Política de Tratamiento de Datos</strong></h3>
 
@@ -12,10 +12,10 @@ Señor usuario sus datos de carácter personal, solo se utilizarán cuando sea n
 
 <h4 align="left">Tratamiento y Finalidad de los Datos<\h4>
 
-  <p align="justify">Los datos recopilados por GirarNET, serán tratados con el grado de   protección adecuado y exigido por la ley.<\p>
+  <p align="justify">Los datos recopilados por GirarNET, serán tratados con el grado de   protección adecuado y exigido por la ley.</p>
   
  
-<h4 align="left">Fines de la Recopilación de los Datos<\h4>
+<h4 align="left">Fines de la Recopilación de los Datos</h4>
 * Identificarlo como usuario, para prestarle un excelente servicio.
 * Ofrecerle información relacionada con nuestros productos, servicios, ofertas y demás
 * Envío de información de estado de cuenta.
@@ -25,10 +25,10 @@ Señor usuario sus datos de carácter personal, solo se utilizarán cuando sea n
 * Consultar, reportar, procesar, solicitar y divulgar a centrales de información financiera que administra la asociación bancaria y de entidades financieras de Colombia, o a cualquier otra entidad que maneje o administre bases de datos con información referente a su comportamiento comercial.
  
 
-<h4 align="left">Principios para el tratamiento de sus datos<\h4>
+<h4 align="left">Principios para el tratamiento de sus datos</h4>
 Legalidad, finalidad,Transparencia, Seguridad, Confidencialidad.
 
-</h4> aling="left">Derechos del Titular de los Datos<\h4>
+</h4> aling="left">Derechos del Titular de los Datos</h4>
 * **Derecho de Acceso:** toda persona tiene derecho a conocer la  finalidad del uso de sus datos personales y si se encuentra en la base
   de datos.
   
