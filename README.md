@@ -46,7 +46,7 @@ Cuando no se ajuste a lo dispuesto por la Ley de Protección de Datos (**Ley 158
 
 >**Note**
 >
->Señor usuario, para ejercer sus derechos puede enviar su solicitud al correo electrónico contacto@girarnet.com.co o acercarse a nuestras oficinas para ponerse en contacto con la persona encargada de protección de datos personales, quien atenderá a sus necesidades.  
+>Señor usuario, para ejercer sus derechos puede enviar su solicitud al correo electrónico Operaciones@girarnet.com.co o acercarse a nuestras oficinas para ponerse en contacto con la persona encargada de protección de datos personales, quien atenderá a sus necesidades.  
 >
 >Señor usuario, para que esté mejor enterado de las disposiciones legales de protección de datos, y con los procedimientos de reclamo respecto de las mismas, visite la página web de la Superintendencia de Industria y Comercio (www.sic.gov.co).
 >
