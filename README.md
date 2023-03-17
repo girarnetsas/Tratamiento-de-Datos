@@ -6,9 +6,9 @@
 
 <h3 align="center"><strong>Política de Tratamiento de Datos</strong></h3>
 
-GIRARNET, informa a los usuarios que respetamos la legislación vigente en materia de protección de datos personales, de conformidad con lo establecido en la **Ley 1581 de 2012**, **Ley 1266 de 2008**, el **Decreto 1377 de 2013**, el **Decreto 886 de 2014**, y demás Resoluciones y decretos que contribuyan al buen manejo de los datos personales, por esto nos comprometemos a adoptar las medidas técnicas y administrativas que se requieran para evitar el mal uso, perdida, acceso no autorizado y robo de los datos personales que usted como usuario nos ha confiado.
+<p aling="juatify">GIRARNET, informa a los usuarios que respetamos la legislación vigente en materia de protección de datos personales, de conformidad con lo establecido en la **Ley 1581 de 2012**, **Ley 1266 de 2008**, el **Decreto 1377 de 2013**, el **Decreto 886 de 2014**, y demás Resoluciones y decretos que contribuyan al buen manejo de los datos personales, por esto nos comprometemos a adoptar las medidas técnicas y administrativas que se requieran para evitar el mal uso, perdida, acceso no autorizado y robo de los datos personales que usted como usuario nos ha confiado.
 
-Señor usuario sus datos de carácter personal, solo se utilizarán cuando sea necesario y pertinente según la finalidad para la que se han obtenido. Serán suprimidos cuando hayan dejado de ser necesarios o pertinentes para dicha finalidad, o cuando lo solicite el titular en elejercicio de su derecho de supresión.
+Señor usuario sus datos de carácter personal, solo se utilizarán cuando sea necesario y pertinente según la finalidad para la que se han obtenido. Serán suprimidos cuando hayan dejado de ser necesarios o pertinentes para dicha finalidad, o cuando lo solicite el titular en elejercicio de su derecho de supresión.</p>
 
 <h4 align="left">Tratamiento y Finalidad de los Datos<\h4>
 
