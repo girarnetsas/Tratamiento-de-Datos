@@ -18,7 +18,7 @@ Señor usuario sus datos de carácter personal, solo se utilizarán cuando sea n
 <h4 align="left">Fines de la Recopilación de los Datos</h4>
 <ul>
   <li>Identificarlo como usuario, para prestarle un excelente servicio.</li>
-  <li>Ofrecerle información relacionada con nuestros productos, servicios, ofertas y demás./li>
+  <li>Ofrecerle información relacionada con nuestros productos, servicios, ofertas y demás.</li>
   <li>Envío de información de estado de cuenta.</li>
   <li>Contactar al usuario en caso de requerir asistencia técnica.</li>
   <li>Evaluar la calidad de nuestro servicio.</li>
